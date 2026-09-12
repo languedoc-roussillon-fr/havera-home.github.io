@@ -5,7 +5,7 @@ Premium home-finishing storefront for bathrooms, kitchens, tile, flooring, paint
 ## Features
 - Professional showroom-inspired design
 - Local image assets included in the package (no external image dependency for the core visual assets)
-- 120+ products across 9 major categories
+- 153 products across 12+ home categories
 - Search, category filters and sorting
 - Product detail pages
 - Shopping cart and wishlist using localStorage
